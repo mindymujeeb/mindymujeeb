@@ -4,7 +4,8 @@
 <h1 align="center">Hi 👋, I'm Mindy Mujeeb</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-   - 🔭 I’m currently working on [Marvinno Website](https://marvinno-new.netlify.app)
+   - 🔭 I have Designed & Developed official website for [Marvinno](https://marvinno.in)
+   - 🔭 I’m currently working on [Mindys Recipe](https://mindyrecipe.netlify.app)
 
 - 📫 How to reach me **mdmujju255@gmail.com**
 
