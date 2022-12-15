@@ -4,12 +4,14 @@
 <h1 align="center">Hi 👋, I'm Mindy Mujeeb</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-   - 🔭 I have Designed & Developed official website for [Marvinno](https://marvinno.in)
-   - 🔭 I’m currently working on [Mindys Recipe](https://mindyrecipe.netlify.app)
+   - 🔭 I have Designed & Developed official website for startup company [Marvinno](https://marvinno.in)
+   - 🔭 Designing and Development of RECIPE website with all the info of a particular recipe [Mindys Recipe](https://mindysrecipe.netlify.app)
+   - 🔭 Website for Performing various String Operations [Text Manipulations](https://mindymujeeb.github.io/text-new-manipulations/)
+   - 🔭 I’m currently working on [The Shaded Feather](https://shadedfeather.netlify.app)
 
 - 📫 How to reach me **mdmujju255@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/drive/folders/125HTG6S-HJcWgut6zWEG9Xl8DPQxlBr9)
 
 <img align="right" alt="Coding" width="400" src="https://www.nyusoft.com/services/images/mern-development/mern-dev-img.png">
 
