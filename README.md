@@ -6,7 +6,7 @@
 
    - 🔭 I have Designed & Developed official website for startup company [Marvinno](https://marvinno.in)
    - 🔭 Designing and Development of RECIPE website with all the info of a particular recipe [Mindys Recipe](https://mindysrecipe.netlify.app)
-   - 🔭 Website for Performing various String Operations [Text Manipulations](https://mindymujeeb.github.io/text-new-manipulations/)
+   - 🔭 Website for Performing various String Operations [Manipulations](https://manipulations.netlify.app)
    - 🔭 I’m currently working on [The Shaded Feather](https://shadedfeather.netlify.app)
 
 - 📫 How to reach me **mdmujju255@gmail.com**
